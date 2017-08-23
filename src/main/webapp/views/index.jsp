@@ -40,11 +40,11 @@ ${successlogin}
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="https://i.pinimg.com/736x/36/5a/9f/365a9fdd33d1884ba7970c5b093433c1--south-indian-weddings-south-indian-bride.jpg" alt="book" width="450 pixel" height="400 pixel">
+        <img src="https://i.pinimg.com/564x/69/bc/c6/69bcc6c58da485fd965604c4b1b2dd20.jpg" alt="knot" width="450 pixel" height="400 pixel">
       </div>
 
       <div class="item">
-        <img src="https://i.pinimg.com/736x/b6/94/5b/b6945b1f7414824fd630aba7850d4fba--traditional-indian-jewellery-south-indian-jewellery.jpg" height="400 pixel">
+        <img src="https://i.pinimg.com/736x/36/5a/9f/365a9fdd33d1884ba7970c5b093433c1--south-indian-weddings-south-indian-bride.jpg" height="400 pixel">
       </div>
     
       <div class="item">
@@ -67,8 +67,8 @@ ${successlogin}
     </a>
   </div>
 </div>
-<center><h3>The Future of self study.</h3> 
-<p>Broaden your Knowledge everyday from our site.</p></center>
+<center><h3>The Perfect Destination For Brides.</h3> 
+<p>We are ready to fulfill your marriage dreams.</p></center>
 <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
@@ -77,22 +77,22 @@ ${successlogin}
       <div class="w">
         <div class="col-lg-4">
           <img class="img-circle" src="https://s-media-cache-ak0.pinimg.com/236x/0b/7b/1d/0b7b1d2608cf027e3f964631f7379568--indian-necklace-indian-jewelry.jpg" alt="Generic placeholder image" width="140" height="140">
-          <h2>kids book</h2>
-          <p>In this kids category you can find many varities of kids book</p>
+          <h2>wedding jewels</h2>
+          <p>In this  category you can find many varities of jewels</p>
       <!--     <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="http://www.maharaniweddings.com/media/gallery/18252-B_0010.jpeg" alt="Generic placeholder image" width="140" 
 
 height="140">
-          <h2>youngsters and teens book</h2>
-          <p>In this category you can find many varities of youngsters and teens book</p>
+          <h2>chappals</h2>
+          <p>In this category you can find many varities of chappals</p>
         <!--   <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p> -->
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="http://assets4.mirraw.com/images/177495/79e50bf19cea7e8c8d48be42814c8488_zoom.jpg?1384443049" alt="Generic placeholder image" width="140" height="140">
-          <h2>text book</h2>
-          <p>In this text book category you can find many varities of text book</p>
+          <h2>wedding accessories</h2>
+          <p>In this text book category you can find many varities of accessories</p>
          <!--  <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p> -->
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
@@ -104,13 +104,13 @@ height="140">
 
       <div class="rowe">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Books <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Escape into the magical world of books. Let your imagination run wild with adventurous tales. Embark on fun-filled journeys to places that 
-exist only in fiction.. Expand your knowledge. Read anything and everything.</p>
+          <h2 class="featurette-heading">wedding <span class="text-muted">It'll blow your mind.</span></h2>
+          <p class="lead">A wedding is a ceremony where two people or a couple are united in marriage. Wedding traditions and customs vary greatly between cultures, ethnic groups, religions, countries, and social classes.
+           Most wedding ceremonies involve an exchange of marriage vows by the couple, presentation of a gift (offering, ring(s), symbolic item, flowers, money), and a public proclamation of marriage by an authority figure.
+            Special wedding garments are often worn, and the ceremony is sometimes followed by a wedding reception.
+             Music, poetry, prayers or readings from religious texts or literature are also commonly incorporated into the ceremony.</p>
         </div>
-        <div class="col-md-5">
-        <iframe width="425" height="315" src="https://www.youtube.com/embed/SKVcQnyEIT8" frameborder="0" allowfullscreen></iframe>
-        </div>
+       
       </div>
 
       <hr class="feature-divider">
@@ -118,9 +118,7 @@ exist only in fiction.. Expand your knowledge. Read anything and everything.</p>
       <div class="rowe">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Better World Books uses the power of business to change the world. We collect and sell books online to donate books and fund literacy 
-initiatives worldwide. With more than 8 million new and used titles in stock, we’re a self-sustaining, triple-bottom-line company that creates social, economic and 
-environmental value for all our stakeholders.</p>
+          <p class="lead">No matter how many weddings you've attended before, or how many times you've been a bridesmaid, there are some things you just don't find out about until your wedding day...</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="http://fundoohairstyles.com/hairstyler/images/indian-bridal1(1).jpg" alt="Generic placeholder image">
@@ -131,9 +129,10 @@ environmental value for all our stakeholders.</p>
 
       <div class="rowe">
         <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Merits.</span></h2>
-          <p class="lead">All books are available with free shipping worldwide. And in case you're concerned about your eco-footprint, every order shipped from 
-Mishawaka is carbon balanced with Green-e Climate certified offsets from 3Degrees, a leading green power and carbon balancing services firm.</p>
+          <h2 class="featurette-heading">Last but not least. <span class="text-muted">Merits.</span></h2>
+          <p class="lead">There's something truly amazing about the wedding ceremony. The traditions, the vows and all your emotional family members and friends make it one of the most special moments of your life.
+           Our advice? Take it all in and drink it up. 
+          You'll want these memories to last a lifetime..</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="https://s-media-cache-ak0.pinimg.com/originals/8a/e4/a5/8ae4a58601bbf9ae346839d7ce427dfe.jpg" alt="Generic placeholder image">

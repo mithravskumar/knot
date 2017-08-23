@@ -15,7 +15,7 @@
 <style type="text/css">
 
 .back {
-	background-image: url("https://img1.etsystatic.com/109/0/8787852/il_fullxfull.1058918337_tmk8.jpg");
+	background-image: url("https://i.pinimg.com/564x/41/d5/00/41d500c40cbe0aecc63691c3fecce197.jpg");
 	background-size:100%;
 }
 
@@ -27,26 +27,26 @@
 <h1 class="entry-title">Contact</h1>
 <div class="entry-content">
 <p><strong>book store Ltd</strong><br />
-27 Corsham Street<br />
-N1 6DR<br />
+Brown stone Appartments<br />
+LIC 3rd street<br />
 Chennai<br />
 India</p>
-<p>Tel (IN): +44 (0) 20 51 236<br />
-<a href="mailto:public@bookstore.com">public@bookstore.in</a></p>
+<p>Tel (IN): 0471 2220764<br />
+<a href="mailto:brides@theknot.com">brides@bookstore.in</a></p>
 <p><strong>Company registration number  :</strong> 7257821</p>
 <p><strong>CEO</strong><br />
-Sangeeth<br/>
- <a href="mailto:ceo@bookstore.com">ceo@bookstore.in</a><br />
-Tel: +44 58 56 58 5</p>
+Mithra<br/>
+ <a href="mailto:ceo@theknot.com">ceo@theknot.in</a><br />
+Tel: +91 9539350759</p>
  <br />
 <p><strong>Responsible for Press Relations and Cooperations</strong><br />
-Thomas<br />
-<a href="mailto:tbm@bookstore.in">tbm@bookstore.in</a><br />
-Tel: +44 81 81 20 2</p>
+Dhinesh Kumar<br />
+<a href="mailto:wedding@theknot.in">wedding@theknot.in</a><br />
+Tel: +91 9787977100</p>
 <p><strong>Responsible for Sales and supplies</strong><br />
-mark<br />
-<a href="mailto:kbm@bookstore.com">kbm@bookstore.in</a><br />
-Tel: +44 28 56 92 5</p>
+vino<br />
+<a href="mailto:marriage@theknot.com">marriage@theknot.in</a><br />
+Tel: +91 9946013647</p>
 <br/>
 <br/>
 <br/>

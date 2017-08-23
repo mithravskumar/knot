@@ -12,7 +12,7 @@
 <title>billing page</title>
 <style>
 body {
-	background-image: url("http://eskipaper.com/images/necklace-hd-1.jpg");
+	background-image: url("https://funalive.com/uploads/files/article/images/South-Indian-bride-saree-2.jpg");
 	background-repeat: no-repeat;
 	background-size:150%;
 	
