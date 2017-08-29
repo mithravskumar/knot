@@ -40,7 +40,7 @@ ${successlogin}
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="https://i.pinimg.com/564x/69/bc/c6/69bcc6c58da485fd965604c4b1b2dd20.jpg" alt="knot" width="450 pixel" height="400 pixel">
+        <img src="https://i.pinimg.com/736x/8b/3e/d9/8b3ed919f6702e0ca245e25832c9c2a6--indian-jewelry-bridal-bridal-makeup-indian-wedding.jpg" alt="knot" width="450 pixel" height="400 pixel">
       </div>
 
       <div class="item">
